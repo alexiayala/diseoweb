@@ -23,7 +23,7 @@ sections:
     background_image_opacity: 8
   - type: features_section
     title: Mis productos
-    subtitle: What I do
+    subtitle: LO QUE TU NECESITAS
     features:
       - title: Content Creation
         subtitle: 'Website, blog, social media and more.'

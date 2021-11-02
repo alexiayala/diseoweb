@@ -25,7 +25,7 @@ sections:
     title: Mis productos
     subtitle: LO QUE TU NECESITAS
     features:
-      - title: Content Creation
+      - title: Redes sociales
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from

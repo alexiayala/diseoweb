@@ -6,7 +6,8 @@ sections:
     subtitle: Diseñador Gráfico y orfesco mis servicios digitales
     actions:
       - label: Whatsapp
-        url: /contact
+        url: >-
+          https://api.whatsapp.com/send?phone=593995740685&text=Hola%20me%20gustar%C3%ADa%20trabajar%20contigo
         style: primary
     image: images/hero.png
     image_alt: A smiling woman

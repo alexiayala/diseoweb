@@ -5,7 +5,7 @@ sections:
     title: 'Hola, soy Alexis Ayala'
     subtitle: Diseñador Gráfico y orfesco mis servicios digitales
     actions:
-      - label: Contact Me
+      - label: Whatsapp
         url: /contact
         style: primary
     image: images/hero.png

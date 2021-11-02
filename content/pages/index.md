@@ -9,7 +9,7 @@ sections:
         url: >-
           https://api.whatsapp.com/send?phone=593995740685&text=Hola%20me%20gustar%C3%ADa%20trabajar%20contigo
         style: primary
-    image: images/hero.png
+    image: /images/Compu2.png
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
